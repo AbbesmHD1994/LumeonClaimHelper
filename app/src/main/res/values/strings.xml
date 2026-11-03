@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lumeon Claim Helper</string>
+    <string name="service_description">Finds the Claim button in Telegram.</string>
+</resources>
